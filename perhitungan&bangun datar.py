@@ -1,0 +1,28 @@
+import modul
+
+#perhitungan
+print(modul.tambah(8,2))
+print(modul.kurang(8,2))
+print(modul.kali(8,2))
+print(modul.bagi(8,2))
+print(modul.pangkat(8,2))
+print(modul.log(8,2))
+print(modul.akar(8))
+print(modul.sin(8))
+print(modul.cos(8))
+print(modul.tan(8))
+#bangun datar
+print(modul.luas_segitiga(5,6))
+print(modul.keliling_segitiga(6,6,6))
+print(modul.luas_persegi(4))
+print(modul.keliling_persegi(8))
+print(modul.luas_persegi_panjang(7,6))
+print(modul.keliling_persegi_panjang(3,4))
+print(modul.luas_belah_ketupat(8,9))
+print(modul.keliling_belah_ketupat(9))
+print(modul.luas_jajar_genjang(4,9))
+print(modul.keliling_jajar_genjang(6,9))
+print(modul.luas_lingkaran(8))
+print(modul.keliling_lingkaran(9))
+print(modul.luas_layang_layang(5,9))
+print(modul.keliling_layang_layang(9,7))
